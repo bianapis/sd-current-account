@@ -1,0 +1,12 @@
+{
+  "applicableInterestRate" : "5%",
+  "productInstanceReference" : "2",
+  "interestRateTransactionReference" : "2",
+  "rateApplicationSchedule" : "2",
+  "customerReference" : "3",
+  "accuredInterestAmount" : {
+    "amount" : "100",
+    "currency" : "USD"
+  },
+  "rateConfiguration" : "service domain level structure"
+}

@@ -18,7 +18,7 @@ info:
   version: "4.0.0"
   title: "Service Domain - Current Account"
 host: "virtserver.swaggerhub.com"
-basePath: "/BIAN/current-account/3.0.1"
+basePath: "/BIAN/sd-current-account/4.0.0"
 schemes:
 - "https"
 paths:
@@ -2125,7 +2125,6 @@ definitions:
       amount:
         type: "string"
         example: "100"
-        maxLength: 19
     description: "`status: Registered`\niso-link: [click_here](https://www.iso20022.org/standardsrepository/public/wqt/Description/mx/dico/datatypes/_YXSZF9p-Ed-ak6NoX_4Aeg_-1352517078)\n\
       general-info: Number of monetary units specified in a currency, where the unit\
       \ of currency is explicit and compliant with ISO 4217. The decimal separator\

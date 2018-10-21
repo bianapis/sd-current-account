@@ -1,0 +1,15 @@
+{
+  "standingOrderPurpose" : "for compliance reporting",
+  "productInstanceReference" : "current account number",
+  "amount" : {
+    "amount" : "100",
+    "currency" : "USD"
+  },
+  "payeeReference" : "4",
+  "payeeProductInstanceReference" : "payee account4",
+  "customerReference" : "3",
+  "payeeBankReference" : "12344",
+  "paymentSchedule" : "start date",
+  "currency" : "USD",
+  "standingOrderFacilityReference" : "SOFR123"
+}

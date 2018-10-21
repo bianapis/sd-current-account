@@ -1,0 +1,13 @@
+{
+  "productInstanceReference" : "account number",
+  "feeConfiguration" : "customer level fee structure",
+  "feeCharge" : "10000",
+  "feeActualAmount" : {
+    "amount" : "100",
+    "currency" : "USD"
+  },
+  "customerReference" : "3",
+  "feeType" : "1",
+  "feeProjectionsCommitments" : "2",
+  "feeTransactionReference" : "2"
+}

@@ -1,0 +1,17 @@
+{
+  "productInstanceReference" : "account number",
+  "amount" : {
+    "amount" : "100",
+    "currency" : "USD"
+  },
+  "directDebitPurpose" : "for compliance reporting",
+  "payeeReference" : "4",
+  "directDebitFacilityReference" : "1",
+  "payeeProductInstanceReference" : "payee account",
+  "customerReference" : "3",
+  "directDebitServiceConfiguration" : "limits",
+  "payeeBankReference" : "4",
+  "directDebitMandateReference" : "payee",
+  "currency" : "USD",
+  "bankBranchLocationReference" : "for booking purposes"
+}

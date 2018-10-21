@@ -1,0 +1,8 @@
+{
+  "productInstanceReference" : "account number",
+  "payeeReference" : "sweep account owner",
+  "payeeProductInstanceReference" : "sweep account",
+  "customerReference" : "3",
+  "sweepServiceConfiguration" : "threshold",
+  "sweepFacilityReference" : "1"
+}

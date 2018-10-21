@@ -1,0 +1,19 @@
+{
+  "statementPeriod" : "01/08/2018 - 31/08/2018",
+  "statementTrasactionType" : "content",
+  "transactionDateTime" : "08/08/2018",
+  "statementInstanceReference" : "24",
+  "transactionPrincipleAmount" : {
+    "amount" : "100",
+    "currency" : "USD"
+  },
+  "transactionType" : "2",
+  "productInstanceReference" : "2",
+  "balanceType" : "booked",
+  "transactionRecordReference" : "TTR45",
+  "transactionObligation" : "product",
+  "balance" : "1000",
+  "statementType" : "balance",
+  "customerReference" : "3",
+  "transactionCounterparty" : "payee"
+}

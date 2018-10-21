@@ -1,0 +1,8 @@
+{
+  "inventoryItemType" : "pay-in slip",
+  "productInstanceReference" : "account number",
+  "customerReference" : "3",
+  "inventoryItemStatus" : "issued",
+  "inventoryFacilityReference" : "1",
+  "inventoryItemProperties" : "sequence numbers"
+}
